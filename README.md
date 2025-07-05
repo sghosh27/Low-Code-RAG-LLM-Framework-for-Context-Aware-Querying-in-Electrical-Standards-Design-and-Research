@@ -14,4 +14,6 @@ Jupyter Notebook:
 * LLM_Evaluation.ipynb - For LLM evaluation and scoring. The notebook uses the input prompt, a ground truth, and the LLM's actual output for evaluation and scoring. 
 * Parsing_Documents.ipynb - Can be used to create Markdown files, which can be uploaded into Anything LLM. This can be used to emulate section 3 of the manuscript to develop a private RAG-LLM workflow. 
 
-Notes: You have to generate application-specific API keys to use the N8N templates or Jupyter notebook. 
+Notes: 
+1. You have to generate application-specific API keys to use the N8N templates or Jupyter notebook.
+2. Please contact the corresponding author at sghosh27@ieee.org for further technical assistance.

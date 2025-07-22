@@ -1,6 +1,6 @@
-# Low-Code-RAG-LLM-Framework-for-Context-Aware-Querying-in-Electrical-Standards-Design-and-Research
+# RAG-LLM-Framework-for-Context-Aware-Querying-in-Electrical-Standards-Design-and-Research
 
-Implementation of the paper "Low Code RAG-LLM Framework for Context-Aware Querying in Electrical Standards, Design, and Research" by Soham Ghosh and Gaurav Mittal.
+Implementation of the paper "RAG-LLM Framework for Context-Aware Querying in Electrical Standards, Design, and Research" by Soham Ghosh and Gaurav Mittal.
 
 N8N workflow files associated with the manuscript and supplementary Jupyter Notebooks being provided are listed below:
 

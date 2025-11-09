@@ -2,6 +2,10 @@
 
 Implementation of the paper "RAG-LLM Framework for Context-Aware Querying in Electrical Standards, Design, and Research" by Soham Ghosh and Gaurav Mittal.
 
+CITATION: Ghosh S and Mittal G (2025) Advancing engineering research through context-aware and knowledge graph–based retrieval-augmented generation.
+Front. Artif. Intell. 8:1697169.
+doi: 10.3389/frai.2025.1697169
+
 N8N workflow files associated with the manuscript and supplementary Jupyter Notebooks being provided are listed below:
 
 N8N templates:
